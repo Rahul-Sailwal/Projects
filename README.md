@@ -1,2 +1,2 @@
 # Projects
-This repository are for python projects
+This repository is for python projects
